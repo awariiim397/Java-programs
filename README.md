@@ -1,2 +1,4 @@
 # Java-programs
-This repository use for all simple java programs.
+This repository will use for all simple java programs.
+First program will be Calculator
+1. Calculator
